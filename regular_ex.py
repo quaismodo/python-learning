@@ -1,7 +1,7 @@
 # Синтаксис регулярных выражений (Stepik курс)
 
-common_string = 'C:\file\file.txt' # Обычная строка
-raw_string = r'C:\file\file.txt' # Сырая строка
+common_string = 'C:\file\file.txt'  # Обычная строка
+raw_string = r'C:\file\file.txt'  # Сырая строка
 
 a = 1
 b = 2
@@ -30,7 +30,7 @@ print("Переносим\nстроку")
 print("\\'")
 
 # task 3
-print(r"\\\'") # recommended!
+print(r"\\\'")  # recommended!
 # or
 print("\\\\\\'")
 
